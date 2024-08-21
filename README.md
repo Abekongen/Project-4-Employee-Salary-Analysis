@@ -22,6 +22,12 @@ This report provides a comprehensive analysis of employee salaries across variou
 ## Dataset
 The dataset comprises information about employees, including their salaries, departments (Finance, HR, IT, Marketing, Sales), levels of education, and years of experience. Each entry includes a unique Employee ID, facilitating detailed analysis based on various parameters.
 
+# CSV and PowerBI File 
+
+CSV: https://drive.google.com/file/d/1jHYnZxsC4M8AoWZ-EdfzNEFc3qKfUZ32/view?usp=drive_link
+
+PowerBI: https://drive.google.com/file/d/1C_SuP8hYvlXbkNgkRky-74oi-VgaKAYj/view?usp=drive_link
+
 ## Methodology
 
 ### Ask
