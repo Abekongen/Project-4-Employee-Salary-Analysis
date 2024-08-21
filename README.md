@@ -51,27 +51,37 @@ Based on the findings, recommendations were formulated for addressing identified
 
 ## Findings / What We Discovered
 
+
 ![image_480](https://github.com/user-attachments/assets/57fba8cc-cc51-4e04-904a-74099c979416)
+
 
 ### Salary Distribution by Department
 - **Marketing** and **Sales** had the highest aggregated salaries, while **IT** and **HR** lagged behind.
+
   
 ![image_480](https://github.com/user-attachments/assets/361661a4-28db-4b6f-846e-0311a6d979d0)
 
+
 ### Gender Pay Gap
 - Men generally earned higher salaries than women across most departments, with the most significant gap observed in **Sales**.
+
   
 ![image_480](https://github.com/user-attachments/assets/da921c66-05d6-4bc2-a2c9-d13d4fae5416)
 
+
 ### Education Impact
 - Employees with **PhDs** earned the highest average salaries, followed by those with **master’s degrees**.
+
   
 ![image_480](https://github.com/user-attachments/assets/42a75775-99e0-478b-967b-e9492a78524b)
 
+
 ### Experience Correlation
 - Salaries tended to stabilize around the **10-year experience mark**, showing less fluctuation in average salaries thereafter.
+
   
 ![image_720](https://github.com/user-attachments/assets/51a729c3-433e-4abc-a7e4-18889b239356)
+
 
 ## Limitations
 - The dataset may not account for all factors influencing salaries, such as geographic location or specific roles within departments.
